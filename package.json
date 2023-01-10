@@ -1,5 +1,5 @@
 {
-  "name": "rxfire-latest",
+  "name": "rxfire",
   "version": "6.0.1",
   "private": true,
   "description": "Firebase JavaScript library RxJS",
